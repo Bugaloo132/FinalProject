@@ -1,0 +1,92 @@
+* {
+    margin:0 auto;
+    box-sizing: border-box;
+    padding:0;
+}
+
+body {
+    direction: rtl;
+    font-size: 100%;
+    color: white;
+    /*background-color: black;*/
+    width: 1200px;
+    background-position: center;
+}
+
+.aboutcontainer {
+    width: 1200px;
+    height: 8000px;
+    background-color: rgba(0,0,0,0.1);
+    position: absolute;
+}
+.aboutitle {
+    width: 1200px;
+    height: 75px;
+    padding-top: 10px;
+    background-color: transparent;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24pt;
+}
+
+.hours {
+    width: 500px;
+    height: 590px;
+    background-color: rgba(255,255,255,0.95);
+    float: left;
+    position: relative;
+    margin-left: 75px;
+    margin-top: 25px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.maps {
+    width: 500px;
+    height: 500px;
+    float: right;
+    position: relative;
+    margin-right: 75px;
+    margin-top: 55px;
+}
+
+.box {
+    width: 1200px;
+    height: 650px;
+}
+.map1 {
+    width: 500px;
+    height: 500px;
+}
+
+.historytitle {
+    width: 1200px;
+    height: 75px;
+    padding-top: 10px;
+    background-color: transparent;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24pt;
+    margin-bottom: 25px;
+}
+
+.News {
+    width: 1200px;
+    height: 7575px;
+    padding-top: 25px;
+    background-color: rgba(0,0,0,.35);
+}
+
+.time {
+    text-align: center;
+    font-size: 16pt;
+    margin-bottom: 10px;
+    color: black;
+    font-family: 'Crimson Text', serif;
+}
+
+.aboutus {
+    text-align: left;
+    font-size: 12pt;
+    color: #000;
+    text-indent: 50px;
+    font-family: 'Crimson Text', serif;
+}

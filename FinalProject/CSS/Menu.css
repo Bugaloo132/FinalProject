@@ -1,0 +1,224 @@
+* {
+    margin:0 auto;
+    box-sizing: border-box;
+    padding:0;
+}
+
+body {
+    direction: rtl;
+    font-size: 100%;
+    color: white;
+    background-color: black;
+    width: 1200px;
+}
+h3 {
+    text-align: left;
+    padding-left: 10px;
+}
+hr {
+    width: 800px;
+    height:2px;
+    margin-bottom: 3px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+
+.container1 {
+    width: 1200px;
+    height: 3000px;
+    background-color: rgba(0,0,0,0.1);
+}
+
+.side {
+    width: 300px;
+    height: 625px;
+    background-color: rgba(255,255,255,.95);
+    margin-top: 25px;
+    margin-right: 15px;
+    padding-top: 10px;
+    color: black;
+}
+
+.menu {
+    width: 850px;
+    height: 5725px;
+    margin-left: 20px;
+    margin-top: 25px;
+    background-color: black;
+    color: black;
+    float: left;
+
+}
+
+.sidemenu {
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+}
+
+.subside {
+    font-family: 'Crimson Text', serif;
+    color: black;
+
+}
+
+.appetizers {
+    width: 825px;
+    height: 990px;
+    margin-top: 12px;
+    background-color:rgba(255,255,255,.95);
+
+}
+
+.gyros {
+    width: 825px;
+    height: 395px;
+    margin-top: 12px;
+    background-color: white;
+
+}
+
+.submarines {
+    width: 825px;
+    height: 1750px;
+    margin-top: 12px;
+    background-color: white;
+
+}
+
+.subprice {
+    width: 650px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16pt;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.sub {
+    text-align: left;
+    padding-left: 10px;
+    padding-bottom: 25px;
+
+}
+
+.pizza {
+    width: 825px;
+    height: 1900px;
+    margin-top: 12px;
+    background-color: white;
+
+}
+
+.extras {
+    width: 825px;
+    height: 620px;
+    margin-top: 12px;
+    background-color: white;
+
+}
+
+.type {
+    float: left;
+    margin-left: 10px;
+    font-size: 24pt;
+    font-family: 'Crimson Text', serif;
+}
+
+#app {
+    color: black;
+}
+
+.tab {
+    margin-left: 40px;
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12pt;
+}
+
+.sauce {
+    text-align: center;
+    font-size: 15pt;
+    font-family: 'Crimson Text', serif;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.garden {
+    text-align: left;
+    padding-left: 10px;
+}
+
+.extra {
+    text-align: left;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    font-size: 15pt;
+}
+
+.food {
+    text-align: left;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    font-size: 15pt;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.category {
+
+    font-size: 24pt;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 5px;
+}
+
+.wing {
+    font-family: 'Montserrat', sans-serif;
+    text-align: left;
+    margin-left: 10px;
+    font-size: 15pt;
+    margin-bottom: 5px;
+}
+
+.options {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12pt;
+    text-align: center;
+}
+.table {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12pt;
+}
+.options2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12pt;
+    text-align: left;
+}
+
+.Pizztab {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12pt;
+    width: 800px;
+    margin-bottom: 15px;
+
+}
+
+.pizzatop {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12pt;
+    width: 800px;
+    margin-left: 25px;
+    margin-bottom: 15px;
+}
+
+.left {
+    text-align: left;
+}
+.party {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16pt;
+    width: 600px;
+}

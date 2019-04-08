@@ -1,0 +1,116 @@
+* {
+    margin:0 auto;
+    box-sizing: border-box;
+    padding:0;
+}
+
+body {
+    direction: rtl;
+    font-size: 100%;
+    color: white;
+    background-color: darkgrey;
+    width: 1200px;
+}
+
+.Spec-cont {
+    width: 1200px;
+    height: 1820px;
+    background-color: rgba(0,0,0,.3);
+}
+
+.large {
+    width: 1200px;
+    height: 600px;
+    background-color: transparent;
+}
+
+.one {
+    width: 900px;
+    height: 300px;
+    background-color: rgba(0,0,0,.5);
+    float: left;
+    border-radius: 25px;
+}
+
+.two {
+    width: 900px;
+    height: 300px;
+    background-color: rgba(0,0,0,.5);
+    float: right;
+    border-radius: 25px;
+}
+
+.spec1 {
+    width: 300px;
+    height: 300px;
+    float: right;
+}
+
+.spec2 {
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+
+.des1 {
+    width: 800px;
+    height: 200px;
+    margin-top: 25px;
+    font-family: 'Crimson Text', serif;
+    font-size: 16pt;
+    padding-top: 10px;
+    background-color: rgba(0,0,0,.2);
+    border-radius: 10px;
+}
+
+.des2 {
+    width: 800px;
+    height: 200px;
+    margin-top: 25px;
+    font-family: 'Crimson Text', serif;
+    font-size: 16pt;
+    padding-top: 10px;
+    background-color: rgba(0,0,0,.2);
+    border-radius: 10px;
+}
+
+.side1 {
+    text-align: left;
+    margin-left: 5px;
+}
+
+.piz1 {
+    text-align: right;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24pt;
+    margin-right: 10px;
+}
+
+.piz2 {
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24pt;
+    margin-left: 10px;
+}
+
+.hr1 {
+    width: 300px;
+    color: white;
+    float: right;
+    margin-right: 11px;
+
+}
+
+.hr2{
+    width: 300px;
+    color: white;
+    float: left;
+    margin-left: 10px;
+}
+
+.end {
+    color: white;
+    width: 1200px;
+    height: 2px;
+    margin-top: 5px;
+}
